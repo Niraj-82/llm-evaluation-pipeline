@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+
+# Virtual environments
+venv/
+.env/
+*.env
+
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Model files / Large weights
+*.bin
+*.pt
+*.pth
+
+# Local data / Test files
+*.log
+*.tmp
+
+# Evaluation reports
+eval_report.json
+
+# Output folders
+outputs/
+runs/
+
+# ZIPs / archives
+*.zip

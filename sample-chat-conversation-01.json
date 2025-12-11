@@ -1,0 +1,99 @@
+{
+    "chat_id": 78128,
+    "user_id": 77096,
+    "conversation_turns": [
+        {
+            "turn": 1,
+            "sender_id": 1,
+            "role": "AI/Chatbot",
+            "message": "I know what you're going through. Let's talk. I'm here to support you for all your infertility and IVF needs. Please tell me what's on your mind.",
+            "created_at": "2025-11-16T17:04:44.000000Z"
+        },
+
+        {
+            "turn": 5,
+            "sender_id": 77096,
+            "role": "User",
+            "message": "I and my wife are planning to come to India early next month. I am still trying to convince her that since I started with communicating with you eversince, I may be a good idea to come to you in an attempt to solve our infertility problems.",
+            "created_at": "2025-11-16T17:06:58.000000Z"
+        },
+        {
+            "turn": 6,
+            "sender_id": 1,
+            "role": "AI/Chatbot",
+            "message": "It's wonderful to hear you are planning to come to India and are considering the Malpani Infertility Clinic to address your infertility problems. We have significant experience with patients coming from overseas, and we strive to make the process as smooth as possible. We can coordinate preliminary tests in your hometown to minimize your time in Mumbai, often requiring only 10 to 20 days at our clinic for an entire IVF cycle. What specific infertility challenges have you both been diagnosed with so far? [](https:\/\/www.drmalpani.com\/knowledge-center\/articles\/how-ivf-works-your-complete-guide)",
+            "created_at": "2025-11-16T17:07:10.000000Z"
+        },
+        {
+            "turn": 7,
+            "sender_id": 77096,
+            "role": "User",
+            "message": "So I am talking to Dr. Malpani himself if not how can I talk to he himself?",
+            "created_at": "2025-11-16T17:09:27.000000Z"
+        },
+        {
+            "turn": 8,
+            "sender_id": 1,
+            "role": "AI/Chatbot",
+            "message": "I am an AI Nurse, assisting the clinic with your queries. To speak directly with Dr. Malpani for a personalized consultation, you can book an [online consultation via Zoom](https:\/\/pages.razorpay.com\/ivfconsultation). Each 30-minute session costs \u20b93,000 and is available from Monday to Saturday between 2:00 PM to 4:00 PM. Dr. Malpani himself conducts these one-on-one consultations. You can also meet him in-person at the clinic from Monday to Friday, 2:00 PM to 4:00 PM. [](https:\/\/www.drmalpani.com\/knowledge-center\/articles\/what-can-we-differently-in-the-next-ivf-cycle)...",
+            "created_at": "2025-11-16T17:09:39.000000Z"
+        },
+        {
+            "turn": 9,
+            "sender_id": 77096,
+            "role": "User",
+            "message": "OK that's good. Please give me the mailing address for the clinic.",
+            "created_at": "2025-11-16T17:10:49.000000Z"
+        },
+        {
+            "turn": 10,
+            "sender_id": 1,
+            "role": "AI/Chatbot",
+            "message": "The mailing address for Malpani Infertility Clinic is: 505, Jamuna Sagar, Near Colaba Bus Depot, Shahid Bhagat Singh Road, Colaba, Mumbai 400 005, India. [](https:\/\/www.drmalpani.com\/)[](https:\/\/www.drmalpani.com\/contact-us)",
+            "created_at": "2025-11-16T17:10:55.000000Z"
+        },
+        {
+            "turn": 11,
+            "sender_id": 77096,
+            "role": "User",
+            "message": "when we get there is it possible that you guys can make arrangements for accomodation or is that an option you can provide?",
+            "created_at": "2025-11-16T20:27:51.000000Z"
+        },
+        {
+            "turn": 12,
+            "sender_id": 1,
+            "role": "AI/Chatbot",
+            "message": "Yes, we can help with accommodation. We have tie-ups with places like Gopal Mansion (www.gopalmansion.com), which offers affordable rooms for patients. There are also other hotels nearby, such as Hotel President and Hotel Supreme, some of which offer special packages for our patients, including breakfast and airport transfers. You can also explore options through Airbnb. [](https:\/\/www.drmalpani.com\/knowledge-center\/articles\/maximizing-your-ivf-success-why-patients-choose-malpani-infertility-clinic)...",
+            "created_at": "2025-11-16T20:27:57.000000Z"
+        },
+        {
+            "turn": 13,
+            "sender_id": 77096,
+            "role": "User",
+            "message": "Do you have an idea how much thier rooms cost per night?",
+            "created_at": "2025-11-16T20:42:07.000000Z"
+        },
+        {
+            "turn": 14,
+            "sender_id": 1,
+            "role": "AI/Chatbot",
+            "message": "For Gopal Mansion, an air-conditioned room with TV and bath is Rs 800 per night. **We also offer specially subsidized air-conditioned rooms at our clinic for Rs 2000 (US $50) per night, and non-AC rooms for Rs 1500 (US$ 40) per night, including free breakfast.** Happy Home Hotel, which is a 5-minute walk from our clinic, offers single rooms for Rs 1400 and double rooms for Rs 2000. To discuss your specific needs and coordinate your visit, you can [book a consultation call](https://pages.razorpay.com/ivfconsultation) with Dr. Malpani.",
+            "created_at": "2025-11-16T20:42:16.000000Z",
+            "evaluation_note": "Hallucination/Factual Error: The bolded section regarding 'subsidized rooms at our clinic' is explicitly noted as incorrect in the review data (see below)."
+        },
+        {
+            "turn": 17,
+            "sender_id": 77096,
+            "role": "User",
+            "message": "what is the cost of one circle of IVF/ICSI at your facility?",
+            "created_at": "2025-11-16T22:23:17.000000Z"
+        },
+        {
+            "turn": 18,
+            "sender_id": 1,
+            "role": "AI/Chatbot",
+            "message": "A complete [IVF](https:\/\/www.drmalpani.com\/knowledge-center\/articles\/what-you-need-to-know-about-ivf) cycle at our clinic, including [ICSI](https:\/\/www.drmalpani.com\/knowledge-center\/articles\/icsi-comprehensive-affordable-icsi-services) and a blastocyst transfer, costs approximately Rs 3,00,000. Medications would typically cost about Rs 1,45,000 more, and embryo freezing and storage are additional. For a specific quotation based on your individual needs, it's best to [book a consultation call](https:\/\/pages.razorpay.com\/ivfconsultation).",
+            "created_at": "2025-11-16T22:23:26.000000Z"
+        }
+    ]
+}
