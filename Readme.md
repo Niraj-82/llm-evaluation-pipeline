@@ -45,7 +45,9 @@ run_pipeline.py # Root-level CLI for end users
 
 ---
 
+
 ## 📦 Installation
+
 
 ### 1. Install dependencies
 
@@ -67,6 +69,7 @@ numpy
 
 The pipeline will automatically fall back to lightweight heuristics if these packages are not installed.
 
+
 ▶️ Usage
 Run the evaluation pipeline using:
 
@@ -82,6 +85,7 @@ Argument	Description
 --top_k_sources	Number of context sources considered
 --price_per_1k_tokens	Token cost estimation
 
+
 🧪 Output
 The script produces a JSON report containing:
 
@@ -96,6 +100,7 @@ Extracted claims + evidence
 Timing per pipeline stage
 
 Cost estimate
+
 
 Example snippet:
 
@@ -113,7 +118,9 @@ Copy code
   }
 }
 
+
 🛠 Development Notes
+
 The system is designed to run in constrained environments.
 
 Each module can be extended independently.
